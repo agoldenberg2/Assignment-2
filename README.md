@@ -1,53 +1,24 @@
-# Assignment #2: File Processing Toolkit
+# Assignment-2: Backend Development Workspace
 
-This repository contains your starter code for the File Processing Toolkit assignment.
+## Overview
+This repository will be used throughout the semester to organize and track my backend development work. 
 
-## Getting Started
+## Learning Objectives
+By the end of the semester, I aim to:
+- Understand backend development fundamentals using JavaScript and Node.js
+- Use Git and GitHub confidently for version control
+- Write and test backend scripts
+- Build and interact with RESTful APIs
+- Improve problem-solving and debugging skills
+- Organize backend projects using best practices
 
-1. Clone this repository to your local machine
-2. Navigate to the project directory
-3. Install dependencies:
-   ```bash
-   npm install
-   ```
+## Repository Structure
+This repository is organized by units covered during the semester. Each unit folder contains notes, exercises, and related resources.
 
-## Assignment Overview
-
-You will build two main scripts:
-
-- **textAnalyzer.js** - Analyzes text files (word count, longest word, line count)
-- **numberProcessor.js** - Processes number files (sum, average, highest, lowest)
-
-## Data Files
-
-Your repository includes sample data files to work with:
-
-- `data/sample-text.txt` - Text content for analysis
-- `data/sample-numbers.txt` - Numbers for processing
-- `data/quotes.txt` - Programming quotes for text analysis
-
-## Testing
-
-Write Jest tests for your functions:
-
-```bash
-npm test
-```
-
-## File Structure
-
-```
-src/
-├── textAnalyzer.js
-├── numberProcessor.js
-└── fileToolkit.js
-
-tests/
-├── textAnalyzer.test.js
-└── numberProcessor.test.js
-
-data/
-├── sample-text.txt
-├── sample-numbers.txt
-└── quotes.txt
-```
+## Semester Plan
+I will use this repository to:
+- Store weekly assignments and practice exercises
+- Track my learning progress through notes and a learning log
+- Practice Git commands and version control workflows
+- Prepare for exams and projects by reviewing past work
+- Continuously update and improve my backend development skills
