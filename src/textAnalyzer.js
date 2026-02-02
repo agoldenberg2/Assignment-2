@@ -27,7 +27,7 @@ function countLines(filePath) {
   return text.split("\n").length;
 }
 
-// Manual test (required by assignment)
+// Manual test 
 console.log(countWords("data/quotes.txt"));
 console.log(findLongestWord("data/quotes.txt"));
 console.log(countLines("data/quotes.txt"));

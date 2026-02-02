@@ -26,7 +26,7 @@ function averageNumbers(filePath) {
   return sumNumbers(filePath) / numbers.length;
 }
 
-// Manual test (required)
+// Manual test 
 console.log(sumNumbers("data/sample-numbers.txt"));
 console.log(findMinMax("data/sample-numbers.txt"));
 console.log(averageNumbers("data/sample-numbers.txt"));

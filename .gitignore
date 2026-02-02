@@ -34,10 +34,8 @@ Thumbs.db
 *.sublime-project
 *.sublime-workspace
 
-# Optional: build artifacts
 dist/
 build/
 
-# Optional: npm package-lock
 package-lock.json
 yarn.lock

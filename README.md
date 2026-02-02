@@ -13,4 +13,4 @@ Throughout this course, my learning objectives include:
 - Writing and running unit tests to ensure application reliability
 
 ### Plan for Using This Repository
-This repository will be updated throughout the semester. Each folder will have code, documentation, and resources. 
+This repository will be updated throughout the semester. Each folder will have code, documentation, and resources.   
