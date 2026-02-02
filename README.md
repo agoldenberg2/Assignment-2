@@ -1,7 +1,7 @@
 ## Comprehensive Documentation
 
 ### Overview of the Backend Development Workspace
-This repository serves as my central backend development workspace for the duration of the course. It is used to organize projects, assignments, and notes related to backend scripting, APIs, testing, and version control. The repository is structured by unit to clearly track progress and keep backend development work organized and easy to navigate.
+This repository serves as my central backend development workspace for this course. 
 
 ### Learning Objectives
 Throughout this course, my learning objectives include:
@@ -13,4 +13,4 @@ Throughout this course, my learning objectives include:
 - Writing and running unit tests to ensure application reliability
 
 ### Plan for Using This Repository
-This repository will be updated throughout the semester as new units and assignments are completed. Each unit folder will contain relevant code, documentation, and resources. I will use this repository as a long-term reference for backend development concepts, useful commands, and best practices, as well as a professional portfolio of my backend development progress.
+This repository will be updated throughout the semester. Each folder will have code, documentation, and resources. 
